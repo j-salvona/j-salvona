@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jds-ventures&label=Profile%20views&color=0e75b6&style=flat" alt="jds-ventures" /> </p>
 
-- 🔭 I’m currently working on [SaaS Food Delivery Platform](Coming soon...)
+- 🔭 I’m currently working on SaaS Food Delivery Platform (Coming soon...)
 
 - 🌱 I’m currently learning **Blockchain Smart Contracts**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jack@salvona.uk**
 
-- 📄 Know about my experiences [Email me for a copy of my CV](Email me for a copy of my CV)
+- 📄 Know about my experiences [Email me for a copy of my CV](mailto:jack@salvona.uk)
 
 - ⚡ Fun fact **If I were to win the Lottery I would travel as Nomadic programmer and go sight seeing and problem solving across the world**
 
