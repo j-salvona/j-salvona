@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Email me for a copy of my CV](mailto:jack@salvona.uk)
 
-- ⚡ Fun fact **If I were to win the Lottery I would travel as Nomadic programmer and go sight seeing and problem solving across the world**
+- ⚡ Fun fact **If I were to win the Lottery I would travel as a Nomadic programmer and go sight seeing and problem solving across the world**
 
 
 <h3 align="left">Languages and Tools:</h3>
