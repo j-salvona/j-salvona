@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jack@salvona.uk**
 
-- 📄 Know about my experiences [Email me for a copy of my CV](mailto:jack@salvona.uk)
+- 📄 Know about my experiences [check out my CV here](https://jds-ventures.github.io/markdown-cv/).
 
 - ⚡ Fun fact **If I were to win the lottery I would travel as a nomadic programmer and go sight seeing and problem solving across the world**
 
