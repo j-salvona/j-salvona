@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [check out my CV here](https://jds-ventures.github.io/markdown-cv/)
 
-- ⚡ Fun fact **If I were to win the lottery I would travel as a nomadic programmer, go sight seeing and problem solving across the world**
+- ⚡ Fun fact **If I were to win the lottery I would travel as a nomadic programmer, go sightseeing and problem solving across the world**
 
 
 <h3 align="left">Languages and Tools:</h3>
