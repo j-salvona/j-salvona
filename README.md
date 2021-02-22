@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on SaaS Food Delivery Platform (Coming soon...)
 
-- 🌱 I’m currently learning **Blockchain Smart Contracts**
+-  🚀 I’m currently learning **Blockchain Smart Contracts**
 
 - 💬 Ask me about **Laravel, AWS, Vue, ReactPHP**
 
