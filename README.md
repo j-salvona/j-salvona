@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jds-ventures&label=Profile%20views&color=0e75b6&style=flat" alt="jds-ventures" /> </p>
 
-- 🔭 I’m currently working on SaaS Food Delivery Platform (Coming soon...)
+- 🔭 I’m currently working on Etherium based crypto wallet and instant payment portal
 
--  🚀 I’m currently learning **Blockchain Smart Contracts**
+-  🚀 I’m currently learning **Etherium Wallet Management**
 
 - 💬 Ask me about **Laravel, AWS, Vue, ReactPHP**
 
