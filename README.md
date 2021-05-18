@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jds-ventures&label=Profile%20views&color=0e75b6&style=flat" alt="jds-ventures" /> </p>
 
-- 🔭 I’m currently working on a Etherium based crypto wallet and instant payment portal for a Client
+- 🔭 I’m currently working as a Full Stack Developer
 
--  🚀 I’m currently learning **Etherium Wallet Management**
+-  🚀 I’m currently learning **Vue.js 3**
 
 - 💬 Ask me about **Laravel, AWS, Vue, ReactPHP**
 
