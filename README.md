@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Full Stack Developer
 
-- 💬 Ask me about **PHP/Laravel, MySql, DevOps, AWS, Vue, CI/CD **
+- 💬 Ask me about **PHP/Laravel, MySql, DevOps, AWS, Vue, CI/CD**
 
 - 📫 How to reach me **jack@salvona.uk**
 
