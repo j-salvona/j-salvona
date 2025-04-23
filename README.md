@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working as a Full Stack Developer
 
--  🚀 I’m currently learning **Vue.js 3**
-
-- 💬 Ask me about **Laravel, AWS, Vue, ReactPHP**
+- 💬 Ask me about **PHP/Laravel, MySql, DevOps, AWS, Vue, CI/CD **
 
 - 📫 How to reach me **jack@salvona.uk**
 
-- 📄 Know about my experiences [check out my CV here](https://jds-ventures.github.io/markdown-cv/)
+- 📄 Know about my experiences, reach over email for a copy of my CV
 
 - ⚡ Fun fact **If I were to win the lottery I would travel as a nomadic programmer, go sightseeing and problem solving across the world**
 
