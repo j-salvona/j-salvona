@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP/Laravel, MySql, DevOps, AWS, Vue, CI/CD**
 
-- 📫 How to reach me **jack@salvona.uk**
+- 📫 How to reach me **jack.salvona@twolabshq.com**
 
 - 📄 Know about my experiences, reach over email for a copy of my CV
 
