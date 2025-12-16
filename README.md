@@ -6,6 +6,8 @@ I have over 10 years of experience working on production systems across public s
 
 My background is strongly object oriented, with a focus on maintaining and modernising long lived systems, improving reliability, and reducing operational risk rather than rapid feature churn.
 
+Currently interested in part time roles in stable, well scoped engineering environments.
+
 ## Areas of experience
 
 - Backend development with PHP and Laravel
@@ -15,9 +17,7 @@ My background is strongly object oriented, with a focus on maintaining and moder
 - Legacy system maintenance and gradual modernisation
 - Clear documentation and technical handover
 
-## Notes on this profile
+## Contact
 
-This GitHub account primarily exists for identity and occasional reference.  
-The majority of my professional work is not publicly accessible.
-
-For work enquiries or further information, contact details are available via my CV or website.
+Email: jack.salvona@twolabshq.com  
+CV available on request.
