@@ -20,4 +20,5 @@ Currently interested in part time roles in stable, well scoped engineering envir
 ## Contact
 
 Email: jack.salvona [at] twolabshq.com
+
 CV available on request.
