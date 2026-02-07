@@ -6,10 +6,15 @@ I have over 10 years of experience working on production systems across public s
 
 My background is strongly object oriented, with a focus on maintaining and modernising long lived systems, improving reliability, and reducing operational risk rather than rapid feature churn.
 
+Over the past year, my work has increasingly focused on lower level and real time systems, including C++ development, embedded controllers, and simulation and visualisation tooling. I am particularly interested in systems where software interacts directly with hardware and the physical world.
+
 Currently interested in part time roles in stable, well scoped engineering environments.
 
 ## Areas of experience
 
+- C++ development for simulation, tooling, and real time systems
+- Embedded development with microcontrollers including ESP32
+- Low level systems design, state management, and timing sensitive code
 - Backend development with PHP and Laravel
 - Relational databases and data modelling
 - Linux based systems and self hosted infrastructure
