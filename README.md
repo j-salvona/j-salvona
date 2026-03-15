@@ -6,9 +6,9 @@ I have over 10 years of experience working on production systems across public s
 
 My background is strongly object oriented, with a focus on maintaining and modernising long lived systems, improving reliability, and reducing operational risk rather than rapid feature churn.
 
-My current work is centred on supporting **Edinburgh Hospital Broadcasting Service (Red Dot Radio)**, where I help with software, systems, and infrastructure, and on building **Vacuum Bureaucracy**, a long term simulation project in modern C++.
+My current work is centred on supporting **Edinburgh Hospital Broadcasting Service (Red Dot Radio)**, where I work on internal systems, radio streaming, servers, networking, and operational infrastructure, and on building **[Vacuum Bureaucracy](https://vacuumbureaucracy.com/)**, a long term simulation project in modern C++.
 
-Alongside that, I continue to work through **TwoLabs**, where we mainly consult with charities and help organisations improve and stabilise their technical systems. I am also working on a project for **Stadttaubenhilfe Freiburg e.V.**, another charity, which I will share more about soon.
+Alongside that, I continue to work through **TwoLabs**, where we mainly consult with charities and help organisations improve and stabilise their technical systems. I am also working on a project for **[Stadttaubenhilfe Freiburg e.V.](https://stadttaubenhilfe-freiburg.org/)**, another charity, which I will share more about soon.
 
 Over the past year, my work has increasingly focused on lower level and real time systems, including C++ development, embedded controllers, and simulation and visualisation tooling. I am particularly interested in systems where software interacts directly with hardware and the physical world.
 
